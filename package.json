@@ -1,0 +1,22 @@
+{
+  "name": "create-reask-app",
+  "version": "0.0.0",
+  "description": "Reask generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCSH/create-reask-app.git"
+  },
+  "keywords": [
+    "reask"
+  ],
+  "author": "Sajjad Heydari <MCSHemail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MCSH/create-reask-app/issues"
+  },
+  "homepage": "https://github.com/MCSH/create-reask-app#readme"
+}
